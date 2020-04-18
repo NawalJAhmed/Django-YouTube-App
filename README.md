@@ -1,5 +1,7 @@
 Uses the jumbotron Bootsrap theme.
 
+Use python manage.py runserver to start the development server.
+
 ---
 
 # Personal Markdown Template
