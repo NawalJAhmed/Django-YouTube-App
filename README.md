@@ -1,3 +1,7 @@
+Uses the jumbotron Bootsrap theme.
+
+---
+
 # Personal Markdown Template
 This is for formatting the .md files of my GitHub repos. I look at the preview to find what I want and then copy the raw version from the file. Remember this is for GitHub flavored Markdown.
 
