@@ -2,7 +2,17 @@ Uses the jumbotron Bootsrap theme.
 
 Use python manage.py runserver to start the development server.
 
-https://www.youtube.com/watch?v=S281rkZzzsA
+### Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=S281rkZzzsA
+  " target="_blank"><img src="https://user-images.githubusercontent.com/11577850/80033281-6b778580-84ba-11ea-9a5a-22cf0b49a88b.PNG"
+                         width="500" height="281.25"
+  alt="Django YouTube App Demo"/></a>
+  <br>
+  <em>YouTube Video Demo (Click on Image for Video) </em>
+</p>
+
 
 ---
 
