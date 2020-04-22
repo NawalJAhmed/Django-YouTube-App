@@ -6,7 +6,7 @@ Features:
  - Video Deletion
  - Video Search
  - User registration and login
- - Comment
+ - Comment including timestamp
  - Responses
  
  SQLite was the database system used as Django uses SQLite by default. For a more scalable database, PostgreSQL is ideal.
